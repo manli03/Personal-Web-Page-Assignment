@@ -18,7 +18,7 @@ Below is a list of projects or websites hosted within this repository. Click on 
 
 *   **Project Name:** About me
 *   **Description:** Brief description about myself
-*   **Live Link:** 🌐 **https://manli03.github.io/Personal%20Web%20Page/**
+*   **Live Link:** 🌐 **[https://manli03.github.io/Personal%20Web%20Page/](https://manli03.github.io/Personal%20Web%20Page)**
 
 ---
 
@@ -26,7 +26,7 @@ Below is a list of projects or websites hosted within this repository. Click on 
 
 *   **Project Name:** Chocolicious landing page
 *   **Description:** Landing page for our assignment to sell a product
-*   **Live Link:** 🌐 **https://manli03.github.io/chocolicious/**
+*   **Live Link:** 🌐 **[https://manli03.github.io/chocolicious/](https://thisismywebsite.kesug.com/chocolicious)**
 
 ---
 
