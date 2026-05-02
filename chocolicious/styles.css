@@ -339,6 +339,7 @@ section {
 .cta-button:hover {
     transform: translateY(-5px);
     box-shadow: var(--shadow-lg);
+    color: var(--white);
 }
 
 .cta-button.primary-cta {
@@ -1028,7 +1029,7 @@ input[type=number]::-webkit-outer-spin-button {
 
 /* --- 16. Group Project Page --- */
 .page-hero {
-    background: linear-gradient(rgba(74, 44, 15, 0.8), rgba(74, 44, 15, 0.8)), url('images/chocojar.png') center/cover no-repeat;
+    background: linear-gradient(rgba(74, 44, 15, 0.8), rgba(74, 44, 15, 0.8)), url('images/chocojar.webp') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -1257,6 +1258,13 @@ input[type=number]::-webkit-outer-spin-button {
     margin-top: 20px;
 }
 
+.social-text .cta-button:hover {
+    background-color: #3a220c;
+}
+
+.social-text .cta-button:hover i {
+    transform: scale(1.1) rotate(-10deg);
+}
 .ideation-grid {
     display: flex;
     flex-direction: column;
